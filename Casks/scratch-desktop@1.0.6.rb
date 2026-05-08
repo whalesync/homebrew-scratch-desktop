@@ -9,11 +9,11 @@ cask "scratch-desktop@1.0.6" do
 
   depends_on arch: :arm64
 
-  app "Scratch Desktop.app"
+  app "Scratch.app"
 
   zap trash: [
-    "~/Library/Application Support/Scratch Desktop",
-    "~/Library/Preferences/com.scratch.desktop.plist",
-    "~/Library/Caches/com.scratch.desktop",
+    "~/Library/Application Support/scratch-desktop",
+    "~/Library/Preferences/md.scratch.desktop.plist",
+    "~/Library/Caches/md.scratch.desktop",
   ]
 end
