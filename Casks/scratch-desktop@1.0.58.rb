@@ -1,4 +1,4 @@
-cask "scratch-desktop@1.0" do
+cask "scratch-desktop@1.0.58" do
   version "1.0.58"
   sha256 "956dbb564f88f1d7a10f9984dba7f68ba23de57d345af39d3613d0be10fe15c6"
 
