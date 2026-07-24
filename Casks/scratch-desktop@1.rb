@@ -1,8 +1,8 @@
 cask "scratch-desktop@1" do
-  version "1.0.74"
-  sha256 "56804125670aefc2b7e769d6ea5a40c3f411019651d0208550dfb49c41bf2221"
+  version "1.0.75"
+  sha256 "865fb66da9d9a4852a57fc40a21c67c52203e4112348d77d4442a23a96db1383"
 
-  url "https://github.com/whalesync/scratch-desktop/releases/download/v1.0.74/Scratch-1.0.74-arm64.zip"
+  url "https://github.com/whalesync/scratch-desktop/releases/download/v1.0.75/Scratch-1.0.75-arm64.zip"
   name "Scratch Desktop"
   desc "Scratch content management desktop app"
   homepage "https://github.com/whalesync/scratch-desktop"
